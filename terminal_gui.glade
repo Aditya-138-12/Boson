@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <object class="GtkWindow" id="main_window">
+    <property name="title">Simple Terminal</property>
+    <property name="default-width">600</property>
+    <property name="default-height">400</property>
+    <child>
+      <object class="GtkBox">
+        <property name="orientation">vertical</property>
+        <property name="spacing">10</property>
+        <child>
+          <object class="GtkEntry" id="command_entry">
+            <property name="placeholder-text">Enter command...</property>
+          </object>
+        </child>
+        <child>
+          <object class="GtkButton" id="execute_button">
+            <property name="label">Execute</property>
+          </object>
+        </child>
+        <child>
+          <object class="GtkScrolledWindow">
+            <child>
+              <object class="GtkTextView" id="output_textview">
+                <property name="editable">false</property>
+                <property name="cursor-visible">false</property>
+                <property name="monospace">true</property>
+              </object>
+            </child>
+          </object>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>
