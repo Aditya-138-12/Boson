@@ -42,3 +42,8 @@ Future Plans
 * Make a Typing Master Test based in terminal.
 * Try to implement AI based in the terminal.
 * Make Natural Commands to work with the CERN ROOT Project, like this: `--> load data.root file`
+
+
+https://github.com/user-attachments/assets/b5a55cee-2830-4de2-aaec-dfec31d62fc2
+
+
