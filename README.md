@@ -1,13 +1,13 @@
 # Boson: Learn Command Line with Fun
 
-=====================================================
+---
 
 About Boson
 Boson is a modern, interactive terminal emulator built in C++. It is designed to enhance the command-line experience by making it more engaging and user-friendly. Boson supports standard command-line operations such as mkdir, rm, grep, and more, while offering a visually appealing and interactive interface. It aims to make working with the command line more intuitive and enjoyable, especially for users who may find traditional terminals intimidating or monotonous.
 
 Key Features
 
-=====================================================
+---
 
 * Interactive Interface: Boson provides a visually rich and interactive environment, with features like auto-suggestions, command history, and real-time feedback.
 * Fun and Engaging: Gamified elements, such as progress tracking, achievements, and visual effects, make using the terminal more enjoyable.
@@ -17,7 +17,7 @@ Key Features
 
 Installation
 
-=====================================================
+---
 
 To install Boson, follow these steps:
 
@@ -25,19 +25,19 @@ To install Boson, follow these steps:
 
 Images / Video
 
-=====================================================
+---
 
 (Still Under Development)
 
 Note
 
-=====================================================
+---
 
 It is not a Quantum Computing Shell!!!
 
 Future Plans
 
-=====================================================
+---
 
 * Make a Typing Master Test based in terminal.
 * Try to implement AI based in the terminal.
