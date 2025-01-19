@@ -22,9 +22,7 @@ Installation
 To install Boson, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/yourusername/boson.git`
-
-Images / Video
-
+   
 ---
 
 (Still Under Development)
@@ -40,6 +38,9 @@ Future Plans
 * Try to implement AI based in the terminal.
 * Make Natural Commands to work with the CERN ROOT Project, like this: `--> load data.root file`
 
+---
+
+Images / Video
 
 https://github.com/user-attachments/assets/b5a55cee-2830-4de2-aaec-dfec31d62fc2
 
