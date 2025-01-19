@@ -28,12 +28,9 @@ Images / Video
 ---
 
 (Still Under Development)
-
-Note
+It is not a Quantum Computing Shell!!!
 
 ---
-
-It is not a Quantum Computing Shell!!!
 
 Future Plans
 
