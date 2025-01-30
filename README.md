@@ -11,7 +11,7 @@ Boson is a modern, interactive terminal emulator built in C++. It is designed to
 * Fun and Engaging: Gamified elements, such as progress tracking, achievements, and visual effects, make using the terminal more enjoyable.
 * Cross-Platform Compatibility: Built in C++, Boson is designed to work seamlessly across multiple operating systems.
 * Customization: Users can personalize the terminal's appearance, themes, and shortcuts to suit their preferences.
-* Learning Tools: Boson includes built-in tutorials and cheat sheets for beginners to learn command-line operations effectively
+* Learning Tools: Boson includes built-in tutorials and cheat sheets for beginners to learn command-line operations effectively.
 
 ---
 
