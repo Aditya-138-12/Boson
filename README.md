@@ -32,7 +32,7 @@ It is not a Quantum Computing Shell!!!
 
 * Make a Typing Master Test based in terminal.
 * Try to implement AI based in the terminal.
-* Make Natural Commands to work with the CERN ROOT Project, like this: `--> load data.root file`
+* Make Natural Commands to work with the CERN ROOT Project, like this: `--> load data.root file` `--> Set Basket Size to 2Kb`
 
 ---
 
