@@ -21,7 +21,7 @@ Boson is a modern, interactive terminal emulator built in C++. It is designed to
 To install Boson, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/yourusername/boson.git`
-2. cd <cloned repo> 
+2. cd (cloned repo) 
    
 ---
 
