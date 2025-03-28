@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn About CERN
+          Learn About the terminal!
         </a>
       </header>
     </div>
